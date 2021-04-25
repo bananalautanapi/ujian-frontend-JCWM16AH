@@ -1,4 +1,16 @@
 {
+  "users": [
+    {
+      "email": "user@hafidz.com",
+      "password": "aaaa",
+      "id": 1
+    },
+    {
+      "email": "admin@hafidz.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
     "products": [
         {
           "id": 1,
@@ -33,5 +45,6 @@
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor vitae purus faucibus. In fermentum et sollicitudin ac orci phasellus egestas tellus. Eget sit amet tellus cras. "
         }
       ],
-      "users" : []
+      "histories" : [],
+      "cart" : []
 }
